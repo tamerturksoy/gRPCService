@@ -1,0 +1,6 @@
+C:\Users\tamer.turksoy\source\repos\gRPCService\gRPCService\gRPCService\obj\Debug\netcoreapp3.1\gRPCService.csproj.AssemblyReference.cache
+C:\Users\tamer.turksoy\source\repos\gRPCService\gRPCService\gRPCService\obj\Debug\netcoreapp3.1\gRPCService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tamer.turksoy\source\repos\gRPCService\gRPCService\gRPCService\obj\Debug\netcoreapp3.1\gRPCService.AssemblyInfoInputs.cache
+C:\Users\tamer.turksoy\source\repos\gRPCService\gRPCService\gRPCService\obj\Debug\netcoreapp3.1\gRPCService.AssemblyInfo.cs
+C:\Users\tamer.turksoy\source\repos\gRPCService\gRPCService\gRPCService\obj\Debug\netcoreapp3.1\gRPCService.csproj.CoreCompileInputs.cache
+C:\Users\tamer.turksoy\source\repos\gRPCService\gRPCService\gRPCService\obj\Debug\netcoreapp3.1\gRPCService.MvcApplicationPartsAssemblyInfo.cache
